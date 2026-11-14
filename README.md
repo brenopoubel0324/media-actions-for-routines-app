@@ -37,7 +37,7 @@ Open **Edit existing widget** to set the layout, spacing, borders, or colors for
 
 ## Wear OS
 
-The optional Wear OS companion is experimental and separate from this stable phone release. It exposes Previous, Play/Pause, and Next as entries you can choose in **Wear Button Remapper**. Physical button bindings and playback on the watch still need validation on the Galaxy Watch8 test firmware.
+The optional [Wear OS companion (0.9 experimental)](https://github.com/brenopoubel0324/media-actions-for-routines-app/releases/tag/wear-v0.9-experimental) exposes Previous, Play/Pause, and Next as entries you can choose in **Wear Button Remapper**. Install the companion on the watch and use the stable APK on the phone. Physical button bindings and playback on the watch still need validation on the Galaxy Watch8 test firmware.
 
 ## Privacy and support
 
